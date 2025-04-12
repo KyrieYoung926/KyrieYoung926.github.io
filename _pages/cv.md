@@ -11,23 +11,19 @@ redirect_from:
 
 Education
 ======
-* **M.Phil in Artificial Intelligence**, Hong Kong University of Science and Technology, Aug 2024 – Jun 2026  
-  * Full Postgraduate Studentship Awarded  
-  * Supervised by Prof. Junwei Liang
+* **M.Phil in Artificial Intelligence**, Hong Kong University of Science and Technology, Sep 2024 – Jun 2026 
 
-* **B.Eng in Automation**, Harbin Institute of Technology (Shenzhen), Sep 2020 – Jun 2024  
-  * School of Mechanical Engineering and Automation  
-  * Key Courses: Frontiers of Automation, Automatic Control Theory, Digital Image Processing, etc.
+* **B.Eng in Automation**, Harbin Institute of Technology, Shenzhen, Sep 2020 – Jun 2024  
+
 
 Exchange Program
 ======
-* **Innobay Bootcamp**, HKUST (Hong Kong), Jul 2024  
-  * Topic: Human Rehabilitation  
-  * *Most Innovative Award* — Designed controllable light source for alleviating athlete jet lag
+* **Hong Kong University of Science and Technology**, Jul 2024  
+  * Innobay Bootcamp | Topic: Human Rehabilitation  
 
-* **Oxford Prospects Program**, University of Oxford, UK, Jan 2024 – Feb 2024  
-  * Grade: A  
-  * *Best Academic Presentation Award* — Group project on gradient descent algorithm
+* **University of Oxford**, Jan 2024 – Feb 2024  
+  * Oxford Prospects Program | Topic: Engineering and AI
+
 
 Research Interests
 ======
