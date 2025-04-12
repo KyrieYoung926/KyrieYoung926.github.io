@@ -13,9 +13,9 @@ title                    : "Xun Yang's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://KyrieYoung926.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "KyrieYoung926/KyrieYoung926.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Xun Yang 杨勋"
   pronouns         : # example: "she/her"  
-  bio              : "M.Phil in Artificial Intelligence, HKUST"
+  bio              : "M.Phil. student in Artificial Intelligence, HKUST"
   location         : "China"
-  employer         : "Red Brick University"
+  employer         : "Hong Kong University of Science and Technology"
   uri              : # URL
   email            : "xyang162@connect.hkust-gz.edu.cn
   " 
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "KyrieYoung926"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "xun-yang-6a83a9326" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
