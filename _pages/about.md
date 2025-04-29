@@ -1,12 +1,15 @@
 ---
 permalink: /
-title: "Welcome to My Homepage!"
+title: "Welcome to Kyrie's Space!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am transfering my original webpage based on hexo to this classic theme.
+The site is still under struction.
 
-Everything is still under construction!
+# Hi! 
+
+I am Xun Yang, a master student studying at Hong Kong University of Science and Technology[(HKUST)](https://hkust.edu.hk/),
+
