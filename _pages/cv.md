@@ -19,28 +19,17 @@ redirect_from:
 ## Exchange Program
 
 **Hong Kong University of Science and Technology**, Jul 2024  
-Division of Integrative Systems and Design, Innobay Bootcamp | Topic: Human Rehabilitation  
+Division of Integrative Systems and Design, Innobay Bootcamp, Topic: Human Rehabilitation  
 
 **University of Oxford**, Jan 2024 – Feb 2024  
-Pembroke College, Oxford Prospects Program | Topic: Engineering and AI
+Pembroke College, Oxford Prospects Program, Topic: Engineering and AI
 
 
-Research Interests
-======
-* Legged Robots  
-* Reinforcement Learning  
-* Robot Locomotion  
-* Robot Manipulation
+## Ongoing Research
 
-Ongoing Research
-======
-* **Dynamic Obstacle Avoidance of Humanoid Robots**, co-first author (NIPS 2025, under preparation)  
-* **Dynamic Robot Dog Locomotion** (CoRL 2025, under preparation)  
-* **Whole Body Control on Humanoid Robots for Sports**, Funded by HUAWEI  
-* **Omni-functional Humanoid Robots for Interactive Operation and Navigation**, Funded by Campus  
-  * Navigation and complex command-based object manipulation demo  
-* **Adaptive Task Execution in Heterogeneous Multi-Robot Systems for Indoor Environment**  
-  * Graduation Project, legged robot locomotion module
+**Dynamic Obstacle Avoidance of Humanoid Robots**, co-first author (NIPS 2025, in submission)  
+**Dynamic Robot Dog Locomotion** (CoRL 2025, submmited)  
+**Adaptive Task Execution in Heterogeneous Multi-Robot Systems for Indoor Environment**  (Graduation Thesis)  
 
 Research Experience
 ======
@@ -70,15 +59,5 @@ Skills
 * **Engineering Tools**: Keil, Altium Designer, Ansys, SolidWorks, AutoCAD, Stable Diffusion  
 * **Robotic Platforms**: Unitree Go2, Unitree G1, UFactory Lite6, Mid-360, RealSense D435, XJC-6F-D80-H28-A
 
-Extracurricular Life
-======
-* **President**, English Association of HITSZ, Jul 2021 – Sep 2022  
-  * Led club of 400+ members, organized 20+ events  
-  * Co-founded League of English Associations with THU and PKU
 
-* **Sports**: Basketball, Soccer, Table Tennis, Tennis, Volleyball, Badminton, Running  
-* **Blogger**: Bilibili & Red Note  
-  * 500+ fans, 650k+ views; topics: robotics, ML, daily life
-
----
 
