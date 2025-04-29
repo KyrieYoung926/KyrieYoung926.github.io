@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-The site is still under struction.
+The site is still under construction.
 
 # Hi! 
 
