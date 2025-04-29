@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,20 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* **M.Phil in Artificial Intelligence**, Hong Kong University of Science and Technology, Sep 2024 – Jun 2026 
+## Education Background
 
-* **B.Eng in Automation**, Harbin Institute of Technology, Shenzhen, Sep 2020 – Jun 2024  
+**M.Phil in Artificial Intelligence**, Hong Kong University of Science and Technology, Sep 2024 – Jun 2026 
+
+**B.Eng in Automation**, Harbin Institute of Technology, Shenzhen, Sep 2020 – Jun 2024  
 
 
-Exchange Program
-======
-* **Hong Kong University of Science and Technology**, Jul 2024  
-  * Innobay Bootcamp | Topic: Human Rehabilitation  
+## Exchange Program
 
-* **University of Oxford**, Jan 2024 – Feb 2024  
-  * Oxford Prospects Program | Topic: Engineering and AI
+**Hong Kong University of Science and Technology**, Jul 2024  
+Division of Integrative Systems and Design, Innobay Bootcamp | Topic: Human Rehabilitation  
+
+**University of Oxford**, Jan 2024 – Feb 2024  
+Pembroke College, Oxford Prospects Program | Topic: Engineering and AI
 
 
 Research Interests
